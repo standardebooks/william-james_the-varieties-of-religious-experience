@@ -10,7 +10,7 @@ section#chapter-4-1 h3{
 	margin-bottom: 0;
 }
 
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	font-style: italic;
 	margin-bottom: 1em;
 	margin-top: 0;
