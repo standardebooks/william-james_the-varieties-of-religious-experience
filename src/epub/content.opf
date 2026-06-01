@@ -37,19 +37,19 @@
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<meta property="file-as" refines="#fulltitle">Varieties of Religious Experience, The</meta>
 		<dc:subject id="subject-1">Religion</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85112549</meta>
 		<dc:subject id="subject-2">Psychology, Religious</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85108485</meta>
 		<dc:subject id="subject-3">Philosophy and religion</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85100999</meta>
 		<dc:subject id="subject-4">Conversion</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85031702</meta>
 		<dc:subject id="subject-5">Experience (Religion)</dc:subject>
-		<meta property="authority" refines="#subject-5">LCHS</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85046434</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Spirituality</meta>
