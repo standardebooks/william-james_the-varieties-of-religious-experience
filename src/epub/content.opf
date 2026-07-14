@@ -35,7 +35,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<meta property="file-as" refines="#subtitle">A Study in Human Nature</meta>
 		<dc:title id="fulltitle">The Varieties of Religious Experience: A Study in Human Nature</dc:title>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="file-as" refines="#fulltitle">Varieties of Religious Experience, The</meta>
 		<dc:subject id="subject-1">Religion</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
