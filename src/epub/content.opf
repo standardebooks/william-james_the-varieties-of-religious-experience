@@ -57,7 +57,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Nonfiction</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.</dc:abstract>
+		<meta property="schema:abstract">A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Varieties of Religious Experience&lt;/i&gt; is the edited form of &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;William James’s&lt;/a&gt; Gifford Lectures on natural theology, which he delivered at the University of Edinburgh, Scotland, between 1901 and 1902. James intended these lectures to more completely assess religion through a philosophical lens, but health problems forced him to curtail that goal, leaving the lectures largely a description of the many different ways people directly and immediately experience religion. These include ways like healthy-mindedness, saintliness, conversion, and mysticism.&lt;/p&gt;
 			&lt;p&gt;This work is one of the foundational texts of the field of psychology of religion, which developed alongside modern approaches to experimental psychology dating to the 1890s. &lt;i&gt;The Varieties of Religious Experience&lt;/i&gt; has been in print since its publication and has an established place in the western canon.&lt;/p&gt;
